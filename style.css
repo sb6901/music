@@ -15,7 +15,8 @@
 .navbar ul{
     display: flex;
     list-style: none;
-   
+    background-color:#fff;
+    opacity:0.8;
 }
 .navbar ul li{
     /* margin: px 27px; */
